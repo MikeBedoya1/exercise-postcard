@@ -32,3 +32,8 @@ body {
 	background-color: rgb(43, 168, 226);
 	padding: 1em;
 }
+
+.input {
+	border: none;
+	border-bottom: 1px solid rgb(71, 157, 184);
+}
